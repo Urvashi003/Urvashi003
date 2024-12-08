@@ -1,18 +1,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Urvashi Bullani</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A aspiring AI/Data Engineer from India</h3>
 <img align= "right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi003&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi003" /> </p>
 
-- 🔭 I’m currently working on **Motivational Quotes Website**
+- 🔭 I’m currently learning **AI/ML**
 
-- 🌱 I’m currently learning **MySQL,Backend**
 
 - 👨‍💻 All of my projects are available at [https://urvashi-portfolio-website.netlify.app/](https://urvashi-portfolio-website.netlify.app/)
 
-- 💬 Ask me about **Web Developement**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
